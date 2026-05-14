@@ -1,0 +1,693 @@
+2026-04-08 15:18:50,518 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:18:57,209 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 15:18:57,278 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:19:03,825 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 15:19:03,854 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 15:19:04,002 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 15:19:04,247 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:20:03,975 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775641721783_7201@yopmail.com
+2026-04-08 15:20:04,136 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@6879
+2026-04-08 15:20:04,263 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 15:20:08,387 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 15:20:08,696 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 15:20:09,264 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 15:20:09,285 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 15:20:09,949 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775641721783_7201@yopmail.com
+2026-04-08 15:20:10,108 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@6879
+2026-04-08 15:20:10,166 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 15:20:10,188 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 15:20:22,677 [TestNG-tests-1] INFO E-socio Platform - Starting Access Digital Twin Test
+2026-04-08 15:20:23,037 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 15:23:28,420 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 15:24:28,499 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 15:26:24,065 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:26:32,655 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 15:26:32,707 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:26:38,929 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 15:26:38,948 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 15:26:39,087 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 15:26:39,298 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:27:05,828 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775642176054_4076@yopmail.com
+2026-04-08 15:27:05,977 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@4273
+2026-04-08 15:27:06,100 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 15:27:10,165 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 15:27:10,559 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 15:27:11,191 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 15:27:11,223 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 15:27:12,051 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775642176054_4076@yopmail.com
+2026-04-08 15:27:12,247 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@4273
+2026-04-08 15:27:12,301 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 15:27:12,334 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 15:27:24,303 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:27:30,641 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 15:28:54,394 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 15:30:32,766 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 15:30:32,767 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_153032_766.wav
+2026-04-08 15:31:58,618 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 15:38:53,585 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:39:00,641 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 15:39:00,725 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:39:07,420 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 15:39:07,441 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 15:39:07,579 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 15:39:07,780 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:39:28,931 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775642923598_6240@yopmail.com
+2026-04-08 15:39:29,099 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@5382
+2026-04-08 15:39:29,229 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 15:39:34,342 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 15:39:34,710 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 15:39:34,963 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 15:39:34,996 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 15:39:35,758 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775642923598_6240@yopmail.com
+2026-04-08 15:39:36,056 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@5382
+2026-04-08 15:39:36,149 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 15:39:36,178 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 15:39:47,981 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:40:33,097 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 15:43:37,303 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 15:44:37,388 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 15:46:29,889 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:46:36,177 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 15:46:36,255 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:46:45,221 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 15:46:45,258 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 15:46:45,568 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 15:46:45,854 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:47:11,682 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775643380254_6880@yopmail.com
+2026-04-08 15:47:12,147 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@1088
+2026-04-08 15:47:12,389 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 15:47:19,964 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 15:47:20,314 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 15:47:20,386 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 15:47:20,411 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 15:47:21,183 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775643380254_6880@yopmail.com
+2026-04-08 15:47:21,817 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@1088
+2026-04-08 15:47:21,950 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 15:47:21,995 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 15:48:10,271 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:48:55,903 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 15:51:05,747 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:51:13,895 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 15:51:14,040 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:51:47,318 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 15:52:00,213 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 15:52:16,100 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 15:52:16,127 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 15:52:38,427 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:52:44,645 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 15:52:44,723 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:52:51,184 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 15:52:51,208 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 15:52:51,435 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 15:52:51,532 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:53:22,547 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775643750406_7914@yopmail.com
+2026-04-08 15:53:22,948 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@1292
+2026-04-08 15:53:23,187 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 15:53:31,835 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 15:53:32,314 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 15:53:32,413 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 15:53:32,456 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 15:53:33,645 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775643750406_7914@yopmail.com
+2026-04-08 15:53:34,060 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@1292
+2026-04-08 15:53:34,266 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 15:53:34,318 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 15:53:47,421 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 15:54:33,041 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 15:57:37,356 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 15:58:37,429 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 16:01:39,569 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 16:04:41,702 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 16:04:41,704 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_160441_703.wav
+2026-04-08 16:10:16,155 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:10:22,025 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 16:10:22,116 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:10:28,794 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 16:10:28,813 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 16:10:29,040 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 16:10:29,250 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:10:55,510 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775644807549_8029@yopmail.com
+2026-04-08 16:10:55,702 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@1739
+2026-04-08 16:10:55,852 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 16:11:01,715 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 16:11:02,089 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 16:11:02,559 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 16:11:02,579 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 16:11:03,181 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775644807549_8029@yopmail.com
+2026-04-08 16:11:03,320 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@1739
+2026-04-08 16:11:03,370 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 16:11:03,398 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 16:11:16,554 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:12:46,744 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 16:14:12,488 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:14:19,158 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 16:14:19,225 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:14:26,401 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 16:14:26,425 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 16:14:26,663 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 16:14:26,856 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:14:49,845 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775645042054_2345@yopmail.com
+2026-04-08 16:14:50,015 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@3205
+2026-04-08 16:14:50,151 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 16:14:55,901 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 16:14:56,329 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 16:14:56,790 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 16:14:56,815 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 16:14:57,439 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775645042054_2345@yopmail.com
+2026-04-08 16:14:57,591 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@3205
+2026-04-08 16:14:57,653 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 16:14:57,675 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 16:15:04,247 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 16:18:08,495 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 16:19:08,594 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 16:19:47,935 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:19:54,828 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 16:19:54,916 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:20:01,403 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 16:20:01,447 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 16:20:02,123 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 16:20:03,321 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:20:31,334 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775645378597_8980@yopmail.com
+2026-04-08 16:20:31,492 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@8129
+2026-04-08 16:20:31,621 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 16:20:37,531 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 16:20:37,929 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 16:20:38,537 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 16:20:38,563 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 16:20:39,265 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775645378597_8980@yopmail.com
+2026-04-08 16:20:39,430 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@8129
+2026-04-08 16:20:39,502 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 16:20:39,528 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 16:22:10,822 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 16:23:09,097 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 16:24:11,278 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 16:24:11,313 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 16:24:12,757 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:24:13,363 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 16:24:15,431 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 16:24:15,432 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_162415_432.wav
+2026-04-08 16:24:20,947 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 16:24:21,068 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:24:28,042 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 16:24:28,089 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 16:24:28,319 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 16:24:28,623 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:24:54,931 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775645642490_8328@yopmail.com
+2026-04-08 16:24:55,150 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@1991
+2026-04-08 16:24:55,305 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 16:24:59,826 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 16:25:00,331 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 16:25:00,648 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 16:25:00,709 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 16:25:01,445 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775645642490_8328@yopmail.com
+2026-04-08 16:25:01,666 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@1991
+2026-04-08 16:25:01,709 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 16:25:01,732 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 16:25:13,107 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 16:25:13,115 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_162513_107.wav
+2026-04-08 16:27:20,026 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 16:30:24,338 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 16:31:24,401 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 16:34:26,590 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 16:37:28,681 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 16:37:28,683 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_163728_683.wav
+2026-04-08 16:48:33,808 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:48:40,763 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 16:48:40,820 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:48:48,441 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 16:48:48,480 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 16:48:49,122 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 16:48:50,080 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 16:49:14,104 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775647102995_9309@yopmail.com
+2026-04-08 16:49:14,299 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@3803
+2026-04-08 16:49:14,424 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 16:49:21,245 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 16:49:21,799 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 16:49:21,947 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 16:49:21,987 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 16:49:23,418 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775647102995_9309@yopmail.com
+2026-04-08 16:49:23,927 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@3803
+2026-04-08 16:49:24,044 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 16:49:24,072 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 16:51:41,641 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 16:53:47,818 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 16:54:47,888 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 16:57:50,079 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 17:00:52,254 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 17:00:52,256 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_170052_254.wav
+2026-04-08 17:04:24,691 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:04:34,852 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:04:35,066 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:04:41,384 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:04:41,419 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 17:04:41,667 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 17:04:41,989 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:05:04,599 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775648055853_9661@yopmail.com
+2026-04-08 17:05:04,803 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@7173
+2026-04-08 17:05:04,934 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 17:05:31,197 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 17:05:31,625 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 17:05:31,700 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 17:05:31,726 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 17:05:32,538 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775648055853_9661@yopmail.com
+2026-04-08 17:05:32,804 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@7173
+2026-04-08 17:05:32,904 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 17:05:32,957 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 17:10:35,747 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:10:42,699 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:10:42,818 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:10:49,892 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:10:49,911 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 17:10:50,095 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 17:10:50,421 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:11:23,485 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775648423437_6428@yopmail.com
+2026-04-08 17:11:23,678 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@5879
+2026-04-08 17:11:23,826 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 17:11:28,748 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 17:11:29,174 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 17:11:29,413 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 17:11:29,434 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 17:11:30,252 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775648423437_6428@yopmail.com
+2026-04-08 17:11:30,486 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@5879
+2026-04-08 17:11:30,553 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 17:11:30,580 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 17:16:50,695 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 17:18:50,869 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 17:19:26,564 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:19:34,867 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:19:34,957 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:19:41,297 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:19:41,322 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 17:19:41,480 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 17:19:41,716 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:20:07,018 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775648956911_4602@yopmail.com
+2026-04-08 17:20:07,219 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@1169
+2026-04-08 17:20:07,340 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 17:20:13,845 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 17:20:14,188 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 17:20:14,418 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 17:20:14,436 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 17:20:15,167 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775648956911_4602@yopmail.com
+2026-04-08 17:20:15,393 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@1169
+2026-04-08 17:20:15,453 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 17:20:15,477 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 17:25:39,882 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 17:26:39,971 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 17:29:42,201 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 17:29:45,268 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:29:51,131 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:29:51,194 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:29:57,932 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:29:57,962 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 17:29:58,128 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 17:29:58,331 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:30:23,742 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775649576998_2282@yopmail.com
+2026-04-08 17:30:23,922 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@8729
+2026-04-08 17:30:24,045 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 17:30:28,908 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 17:30:29,291 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 17:30:29,897 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 17:30:29,915 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 17:30:30,770 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775649576998_2282@yopmail.com
+2026-04-08 17:30:30,992 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@8729
+2026-04-08 17:30:31,030 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 17:30:31,057 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 17:32:06,970 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:32:12,090 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:32:12,146 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:32:18,880 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:32:18,909 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 17:32:19,103 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 17:32:19,339 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:32:43,519 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775649715987_8363@yopmail.com
+2026-04-08 17:32:43,702 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@7414
+2026-04-08 17:32:43,852 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 17:32:44,353 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 17:32:44,356 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_173244_355.wav
+2026-04-08 17:32:49,679 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 17:32:50,062 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 17:32:50,652 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 17:32:50,674 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 17:32:51,404 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775649715987_8363@yopmail.com
+2026-04-08 17:32:51,571 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@7414
+2026-04-08 17:32:51,606 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 17:32:51,631 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 17:36:43,507 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:36:49,553 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:36:49,641 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:36:56,240 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:36:56,259 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 17:36:56,421 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 17:36:56,641 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:37:21,585 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775649994287_9793@yopmail.com
+2026-04-08 17:37:21,781 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@8181
+2026-04-08 17:37:21,913 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 17:37:27,642 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 17:37:28,026 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 17:37:28,603 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 17:37:28,642 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 17:37:29,343 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775649994287_9793@yopmail.com
+2026-04-08 17:37:29,504 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@8181
+2026-04-08 17:37:29,538 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 17:37:29,569 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 17:42:51,924 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 17:43:52,009 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 17:46:54,136 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 17:48:14,406 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:48:21,975 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:48:22,056 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:48:28,504 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:48:28,536 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 17:48:28,738 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 17:48:29,003 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:48:50,740 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775650684023_9873@yopmail.com
+2026-04-08 17:48:50,907 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@9569
+2026-04-08 17:48:51,032 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 17:49:16,673 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 17:49:17,001 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 17:49:17,059 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 17:49:17,078 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 17:49:17,724 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775650684023_9873@yopmail.com
+2026-04-08 17:49:17,972 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@9569
+2026-04-08 17:49:18,031 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 17:49:18,064 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 17:50:19,488 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:50:26,018 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:50:26,074 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:50:32,438 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 17:50:32,459 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 17:50:32,632 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 17:50:32,857 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 17:50:56,289 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775650809842_2164@yopmail.com
+2026-04-08 17:50:56,476 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@7451
+2026-04-08 17:50:56,586 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 17:51:00,796 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 17:51:01,128 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 17:51:01,530 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 17:51:01,560 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 17:51:02,159 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775650809842_2164@yopmail.com
+2026-04-08 17:51:02,316 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@7451
+2026-04-08 17:51:02,348 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 17:51:02,370 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 17:56:26,161 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 17:57:26,231 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 18:00:28,396 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 18:03:30,562 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 18:03:30,564 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_180330_563.wav
+2026-04-08 18:08:10,023 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:08:16,598 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:08:16,684 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:08:23,502 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:08:23,534 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 18:08:23,733 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 18:08:24,057 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:08:47,714 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775651881690_5960@yopmail.com
+2026-04-08 18:08:47,891 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@4785
+2026-04-08 18:08:48,015 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 18:08:53,962 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 18:08:54,354 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 18:08:54,415 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 18:08:54,438 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 18:08:55,232 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775651881690_5960@yopmail.com
+2026-04-08 18:08:55,488 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@4785
+2026-04-08 18:08:55,564 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 18:08:55,615 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 18:11:15,687 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 18:14:18,027 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 18:15:18,112 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 18:15:42,836 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:15:50,263 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:15:50,403 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:15:57,102 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:15:57,125 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 18:15:57,309 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 18:15:57,623 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:16:18,593 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775652334420_1865@yopmail.com
+2026-04-08 18:16:18,786 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@6313
+2026-04-08 18:16:18,913 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 18:16:25,868 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 18:16:26,263 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 18:16:26,323 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 18:16:26,357 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 18:16:27,118 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775652334420_1865@yopmail.com
+2026-04-08 18:16:27,357 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@6313
+2026-04-08 18:16:27,436 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 18:16:27,475 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 18:18:20,311 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 18:19:25,329 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:19:32,637 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:19:32,686 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:19:39,372 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:19:39,393 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 18:19:39,562 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 18:19:39,797 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:20:01,226 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775652555120_7056@yopmail.com
+2026-04-08 18:20:01,391 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@3068
+2026-04-08 18:20:01,518 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 18:20:07,019 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 18:20:07,396 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 18:20:07,991 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 18:20:08,014 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 18:20:08,717 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775652555120_7056@yopmail.com
+2026-04-08 18:20:08,949 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@3068
+2026-04-08 18:20:08,984 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 18:20:09,012 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 18:21:22,541 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 18:21:22,542 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_182122_541.wav
+2026-04-08 18:22:19,755 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 18:23:05,745 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:23:11,238 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:23:11,303 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:23:17,831 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:23:17,870 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 18:23:18,123 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 18:23:18,266 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:23:42,590 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775652776968_4914@yopmail.com
+2026-04-08 18:23:42,783 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@2829
+2026-04-08 18:23:42,923 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 18:23:48,600 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 18:24:23,660 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 18:24:23,740 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 18:24:23,768 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 18:24:24,518 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775652776968_4914@yopmail.com
+2026-04-08 18:24:24,730 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@2829
+2026-04-08 18:24:24,789 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 18:24:24,833 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 18:26:45,055 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 18:31:17,366 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 18:32:17,468 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 18:33:09,738 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:33:16,441 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:33:16,507 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:33:23,007 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:33:23,035 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 18:33:23,320 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 18:33:23,620 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:33:48,418 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775653381780_3534@yopmail.com
+2026-04-08 18:33:48,649 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@5518
+2026-04-08 18:33:48,804 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 18:33:55,161 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 18:33:55,604 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 18:33:56,338 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 18:33:56,388 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 18:33:57,163 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775653381780_3534@yopmail.com
+2026-04-08 18:33:57,332 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@5518
+2026-04-08 18:33:57,370 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 18:33:57,398 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 18:35:19,668 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 18:36:17,310 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 18:38:21,832 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 18:38:21,833 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_183821_832.wav
+2026-04-08 18:40:23,118 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 18:41:23,212 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 18:44:25,381 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 18:47:27,514 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 18:47:27,515 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_184727_515.wav
+2026-04-08 18:48:25,411 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:48:33,341 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:48:33,583 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:48:41,622 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:48:41,653 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 18:48:41,853 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 18:48:42,150 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:49:04,434 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775654293802_4263@yopmail.com
+2026-04-08 18:49:04,604 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@4978
+2026-04-08 18:49:04,731 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 18:49:08,725 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 18:49:09,124 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 18:49:09,700 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 18:49:09,722 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 18:49:10,454 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775654293802_4263@yopmail.com
+2026-04-08 18:49:10,629 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@4978
+2026-04-08 18:49:10,665 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 18:49:10,687 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 18:50:12,908 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:50:18,924 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:50:18,982 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:50:26,937 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:50:26,983 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 18:50:51,245 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 18:50:51,278 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 18:51:09,102 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:51:15,400 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:51:15,467 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:51:22,097 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-08 18:51:22,120 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-08 18:51:22,288 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-08 18:51:22,533 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-08 18:51:46,461 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775654461271_2602@yopmail.com
+2026-04-08 18:51:46,636 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@6987
+2026-04-08 18:51:46,767 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-08 18:51:52,003 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-08 18:51:52,428 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-08 18:51:53,039 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-08 18:51:53,059 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-08 18:51:53,749 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775654461271_2602@yopmail.com
+2026-04-08 18:51:53,914 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@6987
+2026-04-08 18:51:53,948 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-08 18:51:53,982 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-08 18:54:05,884 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-08 18:58:20,824 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-08 18:58:23,492 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-08 18:59:24,055 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-08 18:59:24,451 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-08 18:59:24,454 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_185924_452.wav
+2026-04-08 18:59:44,645 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Voice capture stopped.
+2026-04-08 18:59:44,645 [TestNG-tests-1] INFO E-socio Platform - Audio saved at: C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260408_185924_452.wav
+2026-04-09 10:07:00,522 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 10:07:06,724 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 10:07:06,804 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 10:07:28,601 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 10:07:28,637 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-09 10:07:28,852 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-09 10:07:29,122 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 10:08:08,376 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775709409954_9394@yopmail.com
+2026-04-09 10:08:08,654 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@2043
+2026-04-09 10:08:08,825 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-09 10:08:13,787 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-09 10:08:14,215 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-09 10:08:14,489 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-09 10:08:14,546 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-09 10:08:15,384 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775709409954_9394@yopmail.com
+2026-04-09 10:08:15,653 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@2043
+2026-04-09 10:08:15,704 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-09 10:08:15,757 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-09 10:09:20,206 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 10:09:27,460 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 10:09:27,614 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 10:09:34,867 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 10:09:34,914 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-09 10:09:35,196 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-09 10:09:35,278 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 10:10:00,580 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-09 10:10:02,660 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-09 10:10:04,833 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-09 10:10:04,835 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260409_101004_834.wav
+2026-04-09 10:10:05,099 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775709549366_524@yopmail.com
+2026-04-09 10:10:05,355 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@2687
+2026-04-09 10:10:05,548 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-09 10:10:10,177 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-09 10:10:10,750 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-09 10:10:11,314 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-09 10:10:11,342 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-09 10:10:12,209 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775709549366_524@yopmail.com
+2026-04-09 10:10:12,556 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@2687
+2026-04-09 10:10:12,647 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-09 10:10:12,693 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-09 10:12:31,939 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-09 10:16:45,768 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-09 10:16:48,825 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-09 10:17:49,356 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-09 10:17:49,678 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-09 10:17:49,681 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio path generated → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260409_101749_679.wav
+2026-04-09 10:18:09,859 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Voice capture stopped.
+2026-04-09 10:18:09,860 [TestNG-tests-1] INFO E-socio Platform - Audio saved at: C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260409_101749_679.wav
+2026-04-09 11:10:58,309 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:11:05,096 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 11:11:05,184 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:11:11,687 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 11:11:11,715 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-09 11:11:11,895 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-09 11:11:12,201 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:12:01,165 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-09 11:12:01,207 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-09 11:12:01,247 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-09 11:12:03,451 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-09 11:12:05,519 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-09 11:12:07,579 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-09 11:12:07,590 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Voice capture started → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260409_111207_580.wav
+2026-04-09 11:12:09,689 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio recording stopped in tearDown.
+2026-04-09 11:12:19,840 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:12:27,057 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 11:12:27,142 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:12:33,422 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 11:12:33,445 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-09 11:12:33,598 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-09 11:12:33,879 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:12:53,296 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775713333033_8279@yopmail.com
+2026-04-09 11:12:53,440 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@8803
+2026-04-09 11:12:53,560 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-09 11:12:57,227 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-09 11:12:57,541 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-09 11:12:57,992 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-09 11:12:58,016 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-09 11:12:58,822 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775713333033_8279@yopmail.com
+2026-04-09 11:12:58,970 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@8803
+2026-04-09 11:12:58,995 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-09 11:12:59,013 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-09 11:15:10,710 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-09 11:18:05,109 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-09 11:18:07,779 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-09 11:18:48,190 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-09 11:18:48,421 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-09 11:18:48,426 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Voice capture started → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260409_111848_422.wav
+2026-04-09 11:18:48,526 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Voice capture stopped.
+2026-04-09 11:18:48,527 [TestNG-tests-1] INFO E-socio Platform - Audio saved at: C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260409_111848_422.wav
+2026-04-09 11:22:33,665 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:22:41,699 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 11:22:41,766 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:22:49,831 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 11:22:49,852 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-09 11:22:50,102 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-09 11:22:50,766 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:23:11,471 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775713945333_3829@yopmail.com
+2026-04-09 11:23:11,707 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@3149
+2026-04-09 11:23:11,810 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-09 11:23:16,018 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-09 11:23:16,478 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-09 11:23:17,108 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-09 11:23:17,139 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-09 11:23:18,289 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775713945333_3829@yopmail.com
+2026-04-09 11:23:18,535 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@3149
+2026-04-09 11:23:18,564 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-09 11:23:18,582 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-09 11:29:57,185 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-09 11:30:05,252 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-09 11:30:07,320 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-09 11:30:07,326 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Voice capture started → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260409_113007_322.wav
+2026-04-09 11:30:09,453 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Audio recording stopped in tearDown.
+2026-04-09 11:31:28,705 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:31:36,487 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 11:31:36,579 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:31:43,776 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Ended **********
+2026-04-09 11:31:43,800 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Started **********
+2026-04-09 11:31:44,016 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Forgot Password Test Ended **********
+2026-04-09 11:31:44,469 [TestNG-tests-1] INFO E-socio Platform - ********** Admin Login Test Started **********
+2026-04-09 11:32:05,888 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775714478829_2641@yopmail.com
+2026-04-09 11:32:06,136 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@2244
+2026-04-09 11:32:06,271 [TestNG-tests-1] INFO E-socio Platform - Starting Email Verification Test
+2026-04-09 11:32:10,999 [TestNG-tests-1] INFO E-socio Platform - Switched to email iframe
+2026-04-09 11:32:11,469 [TestNG-tests-1] INFO E-socio Platform - Clicked Verify Email button
+2026-04-09 11:32:12,266 [TestNG-tests-1] INFO E-socio Platform - Email verification completed.
+2026-04-09 11:32:12,292 [TestNG-tests-1] INFO E-socio Platform - Starting Login Test for Registered User
+2026-04-09 11:32:13,449 [TestNG-tests-1] INFO E-socio Platform - Email is:Smith_1775714478829_2641@yopmail.com
+2026-04-09 11:32:13,668 [TestNG-tests-1] INFO E-socio Platform - Password is:Test@2244
+2026-04-09 11:32:13,699 [TestNG-tests-1] INFO E-socio Platform - User logged in successfully.
+2026-04-09 11:32:13,721 [TestNG-tests-1] INFO E-socio Platform - Starting assign digital Twin
+2026-04-09 11:33:46,002 [TestNG-tests-1] INFO E-socio Platform - Starting Create Digital Twin Test
+2026-04-09 11:36:38,696 [TestNG-tests-1] INFO E-socio Platform - Starting Edit Digital Twin Agent Tab Test
+2026-04-09 11:36:39,628 [TestNG-tests-1] INFO E-socio Platform - Starting voice tab Functionality Test
+2026-04-09 11:37:20,037 [TestNG-tests-1] INFO E-socio Platform - Starting Knowledge Base Tab Functionality Test
+2026-04-09 11:37:20,282 [TestNG-tests-1] INFO E-socio Platform - Starting interaction with Digital Twin
+2026-04-09 11:37:20,287 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Voice capture started → C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260409_113720_283.wav
+2026-04-09 11:37:20,398 [TestNG-tests-1] INFO E-socio Platform - [BaseClass] Voice capture stopped.
+2026-04-09 11:37:20,398 [TestNG-tests-1] INFO E-socio Platform - Audio saved at: C:\Users\Gursewak\eclipse-workspace\IamGuruRegression/AudioRecordings/twin_20260409_113720_283.wav
