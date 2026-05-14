@@ -138,13 +138,7 @@ public class Messaging extends BasePage {
         ju.javaScriptClick(ViewProfileLink);
     }
 
-    public List<String> getAllGuruNames() {
-        List<String> guruNames = AllGurulist.stream()
-            .map(guru -> guru.getText().trim())
-            .toList();
-        System.out.println("Guru Names: " + guruNames);
-        return guruNames;
-    }
+   
 
     public void setChatTextBoxText(String text) {
         ju.javaScriptClick(chattextbox.get(0));
@@ -190,4 +184,9 @@ public class Messaging extends BasePage {
     public void clickSearchContact(String user) {
         ju.javaScriptClick(searchContact);
     }
+
+	public List<String> getAllGuruNames() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
